@@ -31,9 +31,47 @@ Version: 4.27.2
 
 reference：https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/
 
+11. 16
+
+Daily Todo
+
+ALL
+
+- [ ] 
+- [ ] 写可发射敌方墨水的敌人
+- [ ] 研究一下boss
 
 
 
+
+
+之后的task
+
+- [ ] 寻找铁丝网素材（unpaintable / 潜墨可穿透）
+- [ ]  
+
+
+
+胡
+
+- [ ] 写paintable/unpaintable基类
+- [ ] 重构地图
+- [ ] 写敌方墨水球BP
+- [ ] 写一个boss掉落的能力碎片bp
+
+吴
+
+- [ ] 人物转向
+- [ ] 
+
+冯
+
+- [ ] 写可移动平台
+
+刘
+
+- [ ] 可交互开关 / 控制大门打开
+- [ ] 完善enemy
 
 
 
