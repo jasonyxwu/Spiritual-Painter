@@ -23,12 +23,6 @@ Version: 4.27.2
   - Boolean variables must be prefixed by b (for example, `bPendingDestruction`, or `bHasFadedIn`).
   - Most other classes are prefixed by F, though some subsystems use other letters.
 
-
-
-
-
-
-
 reference：https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/
 
 11. 16
@@ -41,16 +35,10 @@ ALL
 - [ ] 写可发射敌方墨水的敌人
 - [ ] 研究一下boss
 
-
-
-
-
 之后的task
 
 - [ ] 寻找铁丝网素材（unpaintable / 潜墨可穿透）
-- [ ]  
-
-
+- [ ] 
 
 胡
 
@@ -64,8 +52,6 @@ ALL
 
 - [ ] 在全局变量里添加布尔数组 存储boss的击败状态
 
-  
-
 吴
 
 - [ ] 人物转向
@@ -73,29 +59,25 @@ ALL
 
 冯
 
-- [ ] 写可移动平台
+- [x] 写可移动平台
 
 刘
 
 - [ ] 可交互开关 / 控制大门打开
 - [ ] 完善enemy
 
-
-
-
-
 ## To-dos
 
 ### 1. Character
-
-
 
 #### 1.1 Basics
 
 - [ ] **normal attack**：向前/后/上/下挥动笔刷，喷洒出剑气形状墨水，对途经敌人造成伤害（不可穿透），墨水在与可涂物体（墙壁、地板）接触后会产生溅射效果并附着。
 
 - [x] Movement
+
 - [x] dash
+
 - [x] jump
 
 #### 1.2 special ability （通过地图探索（或击败boss）后可获得的能力）
@@ -103,8 +85,6 @@ ALL
 - [ ] 能力1  **潜墨**（变成其他形态在墨水中游动），通过该能力可以前往被铁丝网阻挡的区域
 - [ ] 能力2  **喷射背包**（向下喷射出高压的墨水**） ：**可以在跳跃后打开喷射背包再跳一次（即二段跳）
 - [ ] 能力3  **砸地** ：范围攻击 消耗法术值能力 可以在空中释放
-
-
 
 - [ ] Inking System
 - [ ] 
@@ -130,10 +110,15 @@ ALL
 - [ ] 找一些好看的英文字体
 
 - [ ] 主菜单
+
 - [ ] Protagonist UI 
+
 - [ ] 背包系统
+
 - [ ] 整体地图以及区域地图绘制
+
 - [ ] 小地图制作 实时显示在右上角
+
 - [ ] npc对话系统
 
 ### 4. enemy
@@ -155,4 +140,3 @@ ALL
 <a href="https://github.com/jasonyxwu/Spiritual-Painter/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jasonyxwu/Spiritual-Painter" />
 </a>
-
