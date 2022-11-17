@@ -48,13 +48,13 @@ ALL
 之后的task
 
 - [ ] 寻找铁丝网素材（unpaintable / 潜墨可穿透）
-- [ ]  
+- [ ]  给地图添加光源
 
 
 
 胡
 
-- [ ] 写paintable/unpaintable基类
+- [x] 写paintable/unpaintable基类
 
 - [ ] 重构地图
 
@@ -64,6 +64,8 @@ ALL
 
 - [x] 在全局变量里添加布尔数组 存储boss的击败状态
 
+  
+  
   
 
 吴
