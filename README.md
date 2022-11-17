@@ -56,7 +56,7 @@ ALL
 
 - [x] 写paintable/unpaintable基类
 
-- [ ] 重构地图
+- [x] 重构地图
 
 - [x] 写敌方墨水球BP
 
